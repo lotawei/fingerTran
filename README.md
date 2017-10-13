@@ -1,3 +1,3 @@
 # fingerTran
-人生中第一个写的比较完整的项目，按需求分析完成
+ this is   app about economic  , The first app to approach reality
 ![见效果](https://github.com/lwiosbystep/fingerTran/blob/master/xiaoguo/xiaoguo.gif)
